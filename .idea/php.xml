@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/composer" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/phpunit/php-code-coverage" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration">
+    <option name="suggestChangeDefaultLanguageLevel" value="false" />
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/Refactoring-Rename-Split/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
