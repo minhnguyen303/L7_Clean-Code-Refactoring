@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06939f36-70b1-4f7f-afcd-16dd3e98cdd0" name="Default Changelist" comment="">
+    <list default="true" id="06939f36-70b1-4f7f-afcd-16dd3e98cdd0" name="Default Changelist" comment="Upload bai thuc hanh va bai tap">
       <change afterPath="$PROJECT_DIR$/.idea/L7_Clean-Code-Refactoring.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
@@ -3150,7 +3150,7 @@
       <workItem from="1608089944120" duration="1843000" />
       <workItem from="1608092130552" duration="62000" />
       <workItem from="1608092385429" duration="827000" />
-      <workItem from="1608099440094" duration="4210000" />
+      <workItem from="1608099440094" duration="5038000" />
     </task>
     <servers />
   </component>
@@ -3175,5 +3175,7 @@
       <path value="$PROJECT_DIR$/Refactoring-Split-Var/php-cleancode-refactoring-variable-extraction" />
       <path value="$PROJECT_DIR$/Refactoring/php-cleancode-refactoring-exercise" />
     </ignored-roots>
+    <MESSAGE value="Upload bai thuc hanh va bai tap" />
+    <option name="LAST_COMMIT_MESSAGE" value="Upload bai thuc hanh va bai tap" />
   </component>
 </project>
